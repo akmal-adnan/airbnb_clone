@@ -1,4 +1,4 @@
-# Airbnb clone
+# Airbnb clone website
 ### Website: https://airbns-clone.vercel.app/
 
 ### Prerequisites
